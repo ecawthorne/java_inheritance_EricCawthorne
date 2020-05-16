@@ -1,0 +1,1 @@
+Part 2 of CSCI3444 final demonstrating inheritance
